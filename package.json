@@ -10,6 +10,7 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "@vercel/ai": "latest"
+    "ai": "latest",
+    "@ai-sdk/xai": "latest"
   }
 }
